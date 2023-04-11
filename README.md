@@ -1,10 +1,11 @@
 # Dr.Shop
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
+[![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
 [![Release](https://img.shields.io/github/release/AshkanPoyber/UPShop.svg)](https://github.com/AshkanPoyber/UPShop/releases)
 [![Downloads](https://img.shields.io/github/downloads/AshkanPoyber/UPShop/total.svg)](https://github.com/AshkanPoyber/UPShop/releases)
 [![Discord](https://img.shields.io/discord/796410664460877865?label=discord)](https://discord.gg/tUa4V9S3MF)
 [![Donate](https://img.shields.io/badge/donate-$$$-8a2be2.svg)](#)
-[![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
+
 
 # Dr.Shop
 My University Project -> ( Dr.Shop ) 
