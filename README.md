@@ -1,28 +1,4 @@
 # Dr.Shop
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Dr.Shop
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
 [![Release](https://img.shields.io/github/release/AshkanPoyber/UPShop.svg)](https://github.com/AshkanPoyber/UPShop/releases)
 [![Downloads](https://img.shields.io/github/downloads/AshkanPoyber/UPShop/total.svg)](https://github.com/AshkanPoyber/UPShop/releases)
@@ -73,5 +49,3 @@ v0.0.0.1 : <br>
 
 # Known Issue's
 ⚠ It Is Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
-
-
