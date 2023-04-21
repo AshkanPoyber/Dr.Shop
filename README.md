@@ -1,14 +1,14 @@
-# Dr.Shop
+# PoyberShop
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
 [![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
-[![Release](https://img.shields.io/github/release/AshkanPoyber/Dr.Shop.svg)](https://github.com/AshkanPoyber/Dr.Shop/releases)
+[![Release](https://img.shields.io/github/release/AshkanPoyber/PoyberShop.svg)](https://github.com/AshkanPoyber/PoyberShop/releases)
 [![Downloads](https://img.shields.io/github/downloads/AshkanPoyber/Dr.Shop/total.svg)](https://github.com/AshkanPoyber/Dr.Shop/releases)
 [![Discord](https://img.shields.io/discord/796419830819061800?label=discord)](https://discord.gg/yPWu7F7Gxb)
 [![Donate](https://img.shields.io/badge/donate-$$$-8a2be2.svg)](#) 
 
 
-# Dr.Shop
-My University Project -> ( Dr.Shop ) 
+# PoyberShop
+My University Project -> ( PoyberShop ) 
 <br>
 🛑 Please Pay Attention , The Language Of This Project Is Persian And Its Localized. If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
 
