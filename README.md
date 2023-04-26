@@ -24,8 +24,6 @@ v0.0.0.1 : <br>
 <br>
 💢 Adding User Registration And Login System
 <br>
-💢 Adding Admin Panel To Manage Shop
-<br>
 💢 Adding Orders Section
 <br>
 💢 Adding Payment Method ( IN SANDBOX MODE )
