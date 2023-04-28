@@ -41,9 +41,21 @@ v0.0.0.1 : <br>
 <br>
 💢 Adding Some Error Page Example (404)
 <br>
+💢 Adding Some Error Page Example (403)
+<br>
+💢 Adding Some Error Page Example (400)
+<br>
+💢 Loader
+<br>
 💢 Adding Profile System
 <br>
 💢 Adding Category System
+<br>
+💢 MessageBox ( File Uploaded )
+<br>
+💢 MessageBox ( Wrong Password )
+<br>
+💢 MessageBox ( Successfully Register )
 <br>
 💢 Improving UI/UX Such As Responsive
 <br>
