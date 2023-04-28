@@ -21,7 +21,7 @@ My University Project -> ( PoyLearn )
 v0.0.0.1 : <br>
 ✅ Alpha Version Published!
 # ToDo List
-💢 StartUp Page
+💢 Main Page
 <br>
 💢 Adding Shopping Cart
 <br>
