@@ -10,6 +10,7 @@
 [![Downloads](https://img.shields.io/github/downloads/AshkanPoyber/PoyLearn/total.svg)](https://github.com/AshkanPoyber/PoyLearn/releases)
 [![Discord](https://img.shields.io/discord/796419830819061800?label=discord)](https://discord.gg/yPWu7F7Gxb)
 [![Donate](https://img.shields.io/badge/donate-$$$-8a2be2.svg)](#) 
+<a href="https://youtu.be/scjlb-TACyQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 
 
 # PoyLearn
