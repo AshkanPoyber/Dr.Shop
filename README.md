@@ -20,8 +20,8 @@ My University Project -> ( PoyLearn )
 🛑 Please Pay Attention , The Language Of This Project Is Persian And Its Localized. If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
 
 # Changelog
-v0.0.0.1 : <br>
-✅ Alpha Version Published!
+v1.0.0.0 : <br>
+✅ Final Version Published!
 # ToDo List
 💢 Main Page
 <br>
