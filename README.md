@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=My+Name+Is+Ashkan!;Nice+To+Meet+You!;Have+a+Great+Time!;Thanks+For+Visiting!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> PoyLearn
+
 [![Ashkan Poyber](https://img.shields.io/badge/Ashkan-Poyber-e4181c.svg?labelColor=0000ff)](#)
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
 [![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
