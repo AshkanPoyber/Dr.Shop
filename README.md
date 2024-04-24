@@ -4,17 +4,15 @@
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h1>
 
-<div align="center">
-      
+
 [![Ashkan Poyber](https://img.shields.io/badge/Ashkan-Poyber-e4181c.svg?labelColor=0000ff)](#)
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
 [![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
 [![Release](https://img.shields.io/github/release/AshkanPoyber/PoyLearn.svg)](https://github.com/AshkanPoyber/PoyLearn/releases)
 
-<div/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> PoyLearn
 My University Project -> ( PoyLearn ) 
 <br>
@@ -69,4 +67,4 @@ v1.0.0.0 : <br>
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Known Issue's
 ⚠ It Is Final Version , Then Its Not Getting So Problems. 
 
-<div/>
+
