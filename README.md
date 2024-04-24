@@ -69,6 +69,6 @@ v1.0.0.0 : <br>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fd0006&height=65&section=footer"/>
 </p>
 
