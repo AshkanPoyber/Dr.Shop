@@ -68,3 +68,7 @@ v1.0.0.0 : <br>
 ⚠ It Is Final Version , Then Its Not Getting So Problems. 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42e814&height=65&section=footer"/>
+</p>
+
