@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1 align="center">
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    PoyLearn
+    𝑷𝒐𝒚𝑳𝒆𝒂𝒓𝒏
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
+</h1>
 
 
 [![Ashkan Poyber](https://img.shields.io/badge/Ashkan-Poyber-e4181c.svg?labelColor=0000ff)](#)
