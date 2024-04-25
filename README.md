@@ -68,6 +68,9 @@ v1.0.0.0 : <br>
 ⚠ It Is Final Version , Then Its Not Getting So Problems. 
 
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> ScreenShots
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fd0006&height=65&section=footer"/>
 </p>
